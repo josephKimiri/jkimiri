@@ -1,10 +1,11 @@
 ---
-title: Pico CTF (Permissions)
+title: Pico CTF (Money-ware)
 author: josephkimiri
 date: 2023-05-12 20:22:00 +0300
 categories: [CTFs, Web]
 tags: [picoctf, ctfs, web, cybersecurity]
 render_with_liquid: false
+image: /assets/img/blog/money-ware.png
 ---
 
 ## Money-ware

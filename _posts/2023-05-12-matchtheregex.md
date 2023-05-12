@@ -5,7 +5,6 @@ date: 2023-05-12 11:35:00 +0300
 categories: [CTFs, Web]
 tags: [picoctf, ctfs, web, cybersecurity]
 render_with_liquid: false
-image: /assets/img/blog/money-ware.png
 ---
 
 ## MatchTheRegex
